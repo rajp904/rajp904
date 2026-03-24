@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raj Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | AI Enthusiast</h3>
 
-<!--
-**rajp904/rajp904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **NutriScan (OCR + Nutrition AI App)**
+- 🌱 Learning **Advanced Backend & AI Integration**
+- 💡 Interested in **Health Tech & Smart Apps**
+- ⚡ Fun fact: I turn ideas into real apps 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Frontend: React, Tailwind CSS
+- ⚙️ Backend: Node.js, Express
+- 🗄️ Database: MongoDB
+- 🤖 Tools: Tesseract OCR, Git, Vercel, Render
+
+---
+
+## 🚀 Projects
+
+### 🥗 NutriScan
+- OCR based nutrition scanner
+- Extracts calories, protein, fat
+- Deployed on Render + Vercel
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajp904&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajp904&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: princesingh17364@gmail.com
+
+---
+
+⭐ From [rajp904](https://github.com/rajp904)
