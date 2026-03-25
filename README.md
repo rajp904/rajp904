@@ -54,23 +54,6 @@
 
 ---
 
-### 🏥 Remote Patient Monitoring Dashboard
-- 📊 Real-time health monitoring dashboard
-- 📈 Data visualization system
-
-👉 🔗 **Live Demo:** [Click Here](#)  
-👉 💻 **GitHub:** [Repo Link](#)
-
----
-
-### 🌱 Biodiversity Conservation Project
-- 🌍 Environmental awareness web app
-
-👉 🔗 **Live Demo:** [Click Here](#)  
-👉 💻 **GitHub:** [Repo Link](#)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
