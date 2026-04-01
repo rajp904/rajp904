@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rajp904.vercel.app/)
 
-<h1 align="center">Hi 👋, I'm Raj Kumar</h1>
+<h1 align="center">Hi 👋, I'm Raj </h1>
 <h3 align="center">An Aspiring Software Developer 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g2Mzc1bXhxc2F6YmFuOXA5ZmE2eXFienpiZzkza3BxdnBnZ3FjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.webp">
@@ -29,8 +29,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajp904&show_icons=true&locale=en&theme=tokyonight" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajp904&show_icons=true&locale=en&theme=tokyonight" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajp904&theme=tokyonight" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajp904&theme=tokyonight" /></p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajp904&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
