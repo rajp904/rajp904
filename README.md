@@ -29,8 +29,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajp904&show_icons=true&locale=en&theme=tokyonight" /></p> -->
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajp904&theme=tokyonight" /></p> 
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajp904&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p> -->
